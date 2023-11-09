@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UtilityBill
+build_property.RootNamespace = UtilityBill
+build_property.ProjectDir = S:\mvc project\HProjects\Utility-Bill-Application-Using-ASP-.NET-MVC\UtilityBill\UtilityBill\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = S:\mvc project\HProjects\Utility-Bill-Application-Using-ASP-.NET-MVC\UtilityBill\UtilityBill
+build_property._RazorSourceGeneratorDebug = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/ApplicationDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25EZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/ApplicationDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25EZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/ApplicationDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25EZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/ApplicationDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25EZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/BillDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbERldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/BillDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbERldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/BillDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbERldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/BillDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbERldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/BillDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Home/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/UserFunctionality/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckZ1bmN0aW9uYWxpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/UsersDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/UsersDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/UsersDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/UsersDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/UsersDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/mvc project/HProjects/Utility-Bill-Application-Using-ASP-.NET-MVC/UtilityBill/UtilityBill/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-js273yu02f
